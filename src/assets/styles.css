@@ -1,0 +1,36 @@
+.form-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title-primary {
+  color: #0d6efd;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+footer {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.card-header-custom {
+  background: linear-gradient(45deg, #161b22, #7e5cfa);
+  color: white;
+  padding: 15px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: all 0.3s ease;
+}
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+  transform: translateY(10px);
+}
+
