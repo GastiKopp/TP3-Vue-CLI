@@ -51,7 +51,6 @@ export default {
     };
   },
   mounted() {
-    // Llamada a MockAPI cuando se monta el componente
     axios
       .get("https://68302c66f504aa3c70f6a44b.mockapi.io/usuariosFaker")
       .then((res) => {
