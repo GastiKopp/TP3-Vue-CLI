@@ -1,6 +1,6 @@
 # TP3: Vue CLI - Router / Formularios - Programación en Nuevas Tecnologías 2
 
-Trabajo práctico realizado con **Vue CLI** 
+Trabajo práctico realizado con **Vue CLI**  
 Incluye:
 
 - ✅ Formulario con validaciones (nombre, edad y email)
@@ -26,10 +26,10 @@ Incluye:
 ```bash
 npm install
 npm run serve
-
----
+```
 
 ## 👨‍💻 Autor
 
-**Gastón Kopplin Alva**  
+**Gastón Kopplin Alva**
 Estudiante de Analista de Sistemas - ORT Argentina
+
