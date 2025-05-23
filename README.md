@@ -31,5 +31,6 @@ npm run serve
 ## 👨‍💻 Autor
 
 **Gastón Kopplin Alva**
+
 Estudiante de Analista de Sistemas - ORT Argentina
 
